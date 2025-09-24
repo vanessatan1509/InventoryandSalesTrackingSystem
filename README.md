@@ -4,10 +4,10 @@ Inventory and Sales Tracking System – SQL Project
 
 Project Overview
 This project is a fully functional SQL-based Inventory & Sales Tracking System designed to practice and demonstrate:
-•	Database Design – Creating normalized tables with relationships and constraints
-•	Data Insertion – Populating realistic sample data for products, suppliers, customers, and sales
-•	SQL Queries – Writing simple to advanced queries for analysis, reporting, and stock management
-•	Business Use Cases – Inventory tracking, sales monitoring, supplier & customer management, and revenue reporting
+- Database Design – Creating normalized tables with relationships and constraints
+- Data Insertion – Populating realistic sample data for products, suppliers, customers, and sales
+- SQL Queries – Writing simple to advanced queries for analysis, reporting, and stock management
+- Business Use Cases – Inventory tracking, sales monitoring, supplier & customer management, and revenue reporting
 
 Database Schema & Relationships
 -	Tables
