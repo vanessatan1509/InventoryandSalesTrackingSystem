@@ -3,6 +3,7 @@ Inventory and Sales Tracking System – SQL Project
 <img width="998" height="692" alt="image" src="https://github.com/user-attachments/assets/30ecdb5f-0552-4e26-b815-0ed86e9da00e" />
 
 Project Overview
+
 This project is a fully functional SQL-based Inventory & Sales Tracking System designed to practice and demonstrate:
 - Database Design – Creating normalized tables with relationships and constraints
 - Data Insertion – Populating realistic sample data for products, suppliers, customers, and sales
